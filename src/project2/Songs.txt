@@ -1,0 +1,4 @@
+İki keklik; Erkan Oğur; 1001; Türk Halk; 1996;
+Nereden bileceksiniz; Ahmet Kaya; 1002; Arabesk; 2014;
+Mihriban;Musa Eroglu; 1005; Türk Halk; 2011;
+Fikrimin İnce Gulu; Muzeyyen Senar; 1003; Türk Halk; 2001;
